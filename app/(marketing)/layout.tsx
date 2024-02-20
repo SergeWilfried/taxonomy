@@ -42,7 +42,7 @@ export default async function MarketingLayout({
                   Login
                 </Link>
                 :
-                <div className='flex justify-center items-center gap-3'>
+                <div className='flex items-center justify-center gap-3'>
                   <h3>Welcome {user.name}</h3>
                   <UserAccountNav
                     user={{
