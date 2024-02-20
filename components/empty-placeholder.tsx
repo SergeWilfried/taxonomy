@@ -42,8 +42,10 @@ EmptyPlaceholder.Icon = function EmptyPlaceHolderIcon({
   }
 
   return (
-    <div className="flex h-20 w-20 items-center justify-center rounded-full bg-muted">
-      <Icon className={cn("h-10 w-10", className)} {...props} />
+    // eslint-disable-next-line react/jsx-no-comment-textnodes
+    <div className="flex size-20 items-center justify-center rounded-full bg-muted">
+      /// FIXME
+      <Icon className={cn("size-10", className)} />
     </div>
   )
 }
