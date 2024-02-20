@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import Link from "next/link"
 import { UserAccountNav } from "@/components/user-account-nav"
 import { marketingConfig } from "@/config/marketing"
