@@ -26,23 +26,23 @@ export default function PricingPage() {
           </h3>
           <ul className="grid gap-3 text-sm text-muted-foreground sm:grid-cols-2">
             <li className="flex items-center">
-              <Icons.check className="mr-2 h-4 w-4" /> Unlimited Posts
+              <Icons.check className="mr-2 size-4" /> Unlimited Posts
             </li>
             <li className="flex items-center">
-              <Icons.check className="mr-2 h-4 w-4" /> Unlimited Users
+              <Icons.check className="mr-2 size-4" /> Unlimited Users
             </li>
 
             <li className="flex items-center">
-              <Icons.check className="mr-2 h-4 w-4" /> Custom domain
+              <Icons.check className="mr-2 size-4" /> Custom domain
             </li>
             <li className="flex items-center">
-              <Icons.check className="mr-2 h-4 w-4" /> Dashboard Analytics
+              <Icons.check className="mr-2 size-4" /> Dashboard Analytics
             </li>
             <li className="flex items-center">
-              <Icons.check className="mr-2 h-4 w-4" /> Access to Discord
+              <Icons.check className="mr-2 size-4" /> Access to Discord
             </li>
             <li className="flex items-center">
-              <Icons.check className="mr-2 h-4 w-4" /> Premium Support
+              <Icons.check className="mr-2 size-4" /> Premium Support
             </li>
           </ul>
         </div>
