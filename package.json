@@ -39,6 +39,7 @@
     "@radix-ui/react-context-menu": "^2.1.5",
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-dropdown-menu": "^2.0.6",
+    "@radix-ui/react-form": "^0.0.3",
     "@radix-ui/react-hover-card": "^1.0.7",
     "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-menubar": "^1.0.4",
@@ -68,6 +69,7 @@
     "contentlayer": "0.3.4",
     "date-fns": "^2.30.0",
     "lucide-react": "^0.294.0",
+    "markdown-wasm": "^1.2.0",
     "next": "14.0.4",
     "next-auth": "4.24.5",
     "next-contentlayer": "0.3.4",
@@ -85,8 +87,7 @@
     "stripe": "^14.8.0",
     "tailwind-merge": "^2.1.0",
     "tailwindcss-animate": "^1.0.7",
-    "zod": "^3.22.4",
-    "markdown-wasm": "^1.2.0"
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
